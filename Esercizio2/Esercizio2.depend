@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1616152080 source:c:\users\admin\desktop\eserciziprogrammazioneii\esercizio2\function.c
+
+1616151909 source:c:\users\admin\desktop\eserciziprogrammazioneii\esercizio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1616151328 c:\users\admin\desktop\eserciziprogrammazioneii\esercizio2\header.h
+

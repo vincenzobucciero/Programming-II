@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1617006625 source:c:\users\admin\desktop\eserciziprogrammazioneii\esercizio7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1617006916 source:c:\users\admin\desktop\eserciziprogrammazioneii\addizione aritmetica\main.c
+	<stdio.h>
+	<stdlib.h>
+

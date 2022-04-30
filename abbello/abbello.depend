@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616498517 source:c:\users\admin\desktop\eserciziprogrammazioneii\abbello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

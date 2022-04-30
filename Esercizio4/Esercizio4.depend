@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1616494433 source:c:\users\admin\desktop\eserciziprogrammazioneii\esercizio4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1616498652 source:c:\users\admin\desktop\università\programmazione_2\eserciziprogrammazioneii\esercizio4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

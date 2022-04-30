@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1616432412 source:c:\users\admin\desktop\eserciziprogrammazioneii\esempic++\scambiabit\function.c
+
+1616431879 source:c:\users\admin\desktop\eserciziprogrammazioneii\esempic++\scambiabit\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1616431868 c:\users\admin\desktop\eserciziprogrammazioneii\esempic++\scambiabit\header.h
+
+1616432412 source:c:\users\admin\desktop\eserciziprogrammazioneii\scambiabit\function.c
+
+1616432452 source:c:\users\admin\desktop\eserciziprogrammazioneii\scambiabit\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1616432412 c:\users\admin\desktop\eserciziprogrammazioneii\scambiabit\header.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616604115 source:c:\users\admin\desktop\eserciziprogrammazioneii\lab 2\esercizio3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
